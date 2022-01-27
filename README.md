@@ -12,4 +12,6 @@
  <img align="center" alt="Yuri-Figma" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  <img align="right" alt="Yuri-Icon" height="120" widht="130" src="https://media.discordapp.net/attachments/936344432851157044/936344695037108294/338224_rgVcXJH8.png">
 
+![Snake animation](https://github.com/yuricamargo/yuricamargo/blob/output/github-contribution-grid-snake.svg)
+
 </div>
