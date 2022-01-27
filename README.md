@@ -10,4 +10,6 @@
  <img align="center" alt="Yuri-HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
  <img align="center" alt="Yuri-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
  <img align="center" alt="Yuri-Figma" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
- </div>
+ <img align="right" alt="Yuri-Icon" height="120" widht="130" src="https://media.discordapp.net/attachments/936344432851157044/936344695037108294/338224_rgVcXJH8.png">
+
+</div>
